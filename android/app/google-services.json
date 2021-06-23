@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "572658355544",
+    "project_id": "darkchatoclits",
+    "storage_bucket": "darkchatoclits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572658355544:android:762326fb57c1dd2a9c292d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_day5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572658355544-69l69he1os10vse7ekisbngi1qpme43e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_day5",
+            "certificate_hash": "6e15d6ee31cd1f3ee6c2dac6def105df041ad86d"
+          }
+        },
+        {
+          "client_id": "572658355544-gv1amlioe8kphs1icebtobl9mi0uljtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0ROLYpHbUiV8gPlVJ_rTOApNbl-9TLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572658355544-gv1amlioe8kphs1icebtobl9mi0uljtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

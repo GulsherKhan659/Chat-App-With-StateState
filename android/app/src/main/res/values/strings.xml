@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DarkChatOclits</string>
+    <string name="facebook_app_id">331758438463006</string>
+    <string name="fb_login_protocol_scheme">fb331758438463006</string>
+
+</resources>
